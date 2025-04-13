@@ -21,7 +21,7 @@
 
 My name is Eric, I'm 18 years old and I've been studying programming for a year. I'm a certified systems programmer and web developer. Feel free to follow my progress!
 
----
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 <details>
 <summary>My technologies - (Click Here)</summary>
