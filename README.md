@@ -24,7 +24,7 @@ My name is Eric, I'm 18 years old, I'm a systems programmer but I also work as a
 <span>&nbsp;</span>
 
 <details>
-<summary>My technologies (Click Here)</summary>
+<summary>My technologies - (Click Here)</summary>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,spring,mysql&theme=dark)](https://skillicons.dev)
 
