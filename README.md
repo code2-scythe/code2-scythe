@@ -21,7 +21,7 @@
 Hello! My name is Eric, I'm 18 years old. I'm a systems programmer and web developer. Feel free to follow my progress!
 </p>
 
-<span>&nbsp;</span>
+---
 
 <details>
 <summary>My technologies - (Click Here)</summary>
