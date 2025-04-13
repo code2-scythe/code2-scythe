@@ -18,7 +18,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 <p style="font-size: 18px; line-height: 1.6;">
-My name is Eric, I'm 18 years old, I'm a systems programmer but I also work as a web developer.
+Hello! My name is Eric, I'm 18 years old. I'm a systems programmer and web developer. Feel free to follow my progress!
 </p>
 
 <span>&nbsp;</span>
