@@ -2,7 +2,7 @@
   <a href="https://discord.com/users/1324240903673614428">
     <img src="https://lanyard.kyrie25.dev/api/1324240903673614428" />
   </a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span></span>
   <a href="https://guns.lol/inykee">
     <img src="assets/Yuno Gasai.png" height="250" />
   </a>
