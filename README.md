@@ -21,3 +21,15 @@
 <p style="font-size: 18px; line-height: 1.6;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Eric, I'm 18 years old, I'm a systems programmer but I also work as a web developer.
 </p>
+
+<details>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<summary>💻 My technologies</summary>
+
+  Olá! Este é o conteúdo que estava escondido.  
+  Você pode escrever **texto normal**, usar _Markdown_, adicionar imagens, listas, etc.
+
+  - Item 1
+  - Item 2
+
+  🌟 Aproveite!
+</details>
