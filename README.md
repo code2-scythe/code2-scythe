@@ -25,11 +25,11 @@ My name is Eric, I'm 18 years old, I'm a systems programmer but I also work as a
 <details>
 <summary>💻 My technologies</summary>
 
-  Olá! Este é o conteúdo que estava escondido.  
-  Você pode escrever **texto normal**, usar _Markdown_, adicionar imagens, listas, etc.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-  - Item 1
-  - Item 2
-
-  🌟 Aproveite!
 </details>
