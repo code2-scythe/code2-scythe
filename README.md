@@ -24,7 +24,7 @@ My name is Eric, I'm 18 years old and I've been studying programming for a year.
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 <details>
-<summary>My technologies - (Click Here)</summary>
+<summary>My technologies</summary>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +36,7 @@ My name is Eric, I'm 18 years old and I've been studying programming for a year.
 </details>
 
 <details>
-<summary>My contact - (Click Here)</summary>
+<summary>My contact</summary>
 
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
