@@ -23,7 +23,7 @@
 </p>
 
 <details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<summary>💻 My technologies</summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<summary>💻 My technologies</summary>
 
   Olá! Este é o conteúdo que estava escondido.  
   Você pode escrever **texto normal**, usar _Markdown_, adicionar imagens, listas, etc.
