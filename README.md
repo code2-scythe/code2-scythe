@@ -2,7 +2,7 @@
   <a href="https://discord.com/users/1324240903673614428">
     <img src="https://lanyard.kyrie25.dev/api/1324240903673614428" />
   </a>
-  <span></span>
+  
   <a href="https://guns.lol/inykee">
     <img src="assets/Yuno Gasai.png" height="250" />
   </a>
@@ -19,9 +19,7 @@
 
 <h1>Hello World!</h1>
 
-<p style="font-size: 18px; line-height: 1.6;">
 My name is Eric, I'm 18 years old and I've been studying programming for a year. I'm a certified systems programmer and web developer. Feel free to follow my progress!
-</p>
 
 ---
 
