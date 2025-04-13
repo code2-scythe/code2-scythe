@@ -18,7 +18,6 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FFFFFF&width=435&lines=Hello+World!)](https://git.io/typing-svg)
-
 <p style="font-size: 18px; line-height: 1.6;">
 My name is Eric, I'm 18 years old and I've been studying programming for a year. I'm a certified systems programmer and web developer. Feel free to follow my progress!
 </p>
