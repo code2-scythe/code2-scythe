@@ -22,8 +22,10 @@
 My name is Eric, I'm 18 years old, I'm a systems programmer but I also work as a web developer.
 </p>
 
+<span>&nbsp;</span>
+
 <details>
-<summary>💻 My technologies</summary>
+<summary>💻・My technologies</summary>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
