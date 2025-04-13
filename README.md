@@ -29,3 +29,10 @@ Hello! My name is Eric, I'm 18 years old and I've been studying programming for 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,spring,mysql&theme=dark)](https://skillicons.dev)
 
 </details>
+
+<details>
+<summary>My contact - (Click Here)</summary>
+
+[![My Skills](https://skillicons.dev/icons?i=gmail,discord&theme=dark)](https://skillicons.dev)
+
+</details>
