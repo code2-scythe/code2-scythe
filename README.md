@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
+
 <div align="center">
   <a href="https://discord.com/users/1324240903673614428">
     <img src="https://lanyard.kyrie25.dev/api/1324240903673614428" />
@@ -43,3 +45,5 @@ My name is Eric, I'm 18 years old and I've been studying programming for a year.
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 </details>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
