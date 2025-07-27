@@ -5,9 +5,7 @@
     <img src="https://lanyard.kyrie25.dev/api/1324240903673614428" />
   </a>
   
-  <a href="https://guns.lol/inykee">
-    <img src="assets/Yuno Gasai.png" height="250" />
-  </a>
+  <img src="assets/Yuno Gasai.png" height="250" />
 </div>
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
